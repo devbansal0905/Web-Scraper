@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992762333706",
+    "firebase_url": "https://imad-b0531-default-rtdb.firebaseio.com",
+    "project_id": "imad-b0531",
+    "storage_bucket": "imad-b0531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992762333706:android:5f59491a71f45e846dedf3",
+        "android_client_info": {
+          "package_name": "com.example.imad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992762333706-gdj4oes5pg5bnpfof7b1jdijscpudfve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imad",
+            "certificate_hash": "33ac3d3791d0f7cde9f5972d631fae01c4d11295"
+          }
+        },
+        {
+          "client_id": "992762333706-4h4pr52k9bg7omsbj9tb4cu5cg4dag2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54BGJ7OQ8xRGWvoMVHMfguFcEzJf7YGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992762333706-4h4pr52k9bg7omsbj9tb4cu5cg4dag2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
